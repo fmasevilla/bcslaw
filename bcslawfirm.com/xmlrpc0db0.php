@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>http://bcslawfirm.com</homePageLink>
+		<homePageLink>http://bunagcorteslaw.com</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="http://bcslawfirm.com/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="http://bcslawfirm.com/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://bcslawfirm.com/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="http://bcslawfirm.com/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="http://bcslawfirm.com/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="http://bunagcorteslaw.com/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="http://bunagcorteslaw.com/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://bunagcorteslaw.com/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="http://bunagcorteslaw.com/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="http://bunagcorteslaw.com/wp-json/" />
 			</apis>
 	</service>
 </rsd>
